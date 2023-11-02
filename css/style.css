@@ -1,0 +1,10 @@
+
+h1{
+	font-size: 50px;
+	color: yellow;
+	background-color: green;
+}
+.box{
+	background-color: yellow;
+	min-height: 100vh;
+}
